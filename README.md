@@ -1,2 +1,2 @@
-# blogs-and-articles
-A collection of tech-related blogs and articles covering programming, software development, AI, deep learning, and emerging technologies.
+## ICT
+1. [Difference between CPU, GPU, TPU and NPU | Abhishek Jain @medium](https://medium.com/@abhishekjainindore24/difference-between-cpu-gpu-tpu-and-npu-09fca09f0bb6)
