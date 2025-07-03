@@ -1,6 +1,8 @@
 ### NLP
-1. [HuggingFace Learn](https://huggingface.co/learn)
-2. [LLM Course @HuggingFace](https://huggingface.co/learn/llm-course/chapter0/1?fw=pt)
+1. Platform: [HuggingFace Learn](https://huggingface.co/learn)
+2. Course [LLM Course @HuggingFace](https://huggingface.co/learn/llm-course/chapter0/1?fw=pt)
+3. Blog: [BERT 101 🤗 State Of The Art NLP Model Explained](https://huggingface.co/blog/bert-101)
+4. Blog: [An Introduction to BERT And How To Use It](https://wandb.ai/mukilan/BERT_Sentiment_Analysis/reports/An-Introduction-to-BERT-And-How-To-Use-It--VmlldzoyNTIyOTA1)
 
 
 ### Agentic AI
