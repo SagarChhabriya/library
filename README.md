@@ -3,6 +3,7 @@
 2. Course [LLM Course @HuggingFace](https://huggingface.co/learn/llm-course/chapter0/1?fw=pt)
 3. Blog: [BERT 101 🤗 State Of The Art NLP Model Explained](https://huggingface.co/blog/bert-101)
 4. Blog: [An Introduction to BERT And How To Use It](https://wandb.ai/mukilan/BERT_Sentiment_Analysis/reports/An-Introduction-to-BERT-And-How-To-Use-It--VmlldzoyNTIyOTA1)
+5. CaseStudy: [NLP Case Study: Word Embeddings](https://web.engr.oregonstate.edu/~huanlian/teaching/ML/2024fall/unit4/word_embeddings.html#exploration-4.2-nlp-case-study-word-embeddings)
 
 
 ### Agentic AI
