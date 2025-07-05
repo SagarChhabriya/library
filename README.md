@@ -1,3 +1,7 @@
+
+## APIs
+- **CheatSheet**: [FastAPI CheatSheet @app-generator.dev/docs](https://app-generator.dev/docs/technologies/fastapi/cheatsheet.html)
+
 ## NLP
 - **Platform**: [HuggingFace Learn](https://huggingface.co/learn)
 - **Course**: [LLM Course @HuggingFace](https://huggingface.co/learn/llm-course/chapter0/1?fw=pt)
