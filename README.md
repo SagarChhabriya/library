@@ -1,6 +1,14 @@
 
+## Deep Learning
+- **blog**: [What is RNN? @Amazon](https://aws.amazon.com/what-is/recurrent-neural-network/)
+
+
+
+
 ## APIs
 - **CheatSheet**: [FastAPI CheatSheet @app-generator.dev/docs](https://app-generator.dev/docs/technologies/fastapi/cheatsheet.html)
+
+
 
 ## NLP
 - **Platform**: [HuggingFace Learn](https://huggingface.co/learn)
