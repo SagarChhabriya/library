@@ -1,4 +1,9 @@
 
+
+## Tech Tips
+- **Linkedin Post**: [@Ram Maheshwari = How to make your site live using built-in ports feature of vscode](https://www.linkedin.com/posts/rammcodes_html-css-javascript-ugcPost-7347161529860907008-mklg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQCkOUBNA-E4AXpsYEvBxIlzGaGNCumDt4)
+
+
 ## Deep Learning
 - **blog**: [What is RNN? @Amazon](https://aws.amazon.com/what-is/recurrent-neural-network/)
 
