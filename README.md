@@ -1,4 +1,6 @@
 
+## System Design
+- **Video**: [System Design was HARD until I Learned these 30 Concepts @Ashish Partap Singh](https://www.youtube.com/watch?v=s9Qh9fWeOAk)
 
 ## GenAI
 - **Blog**: [genai-processor @deepmind](https://developers.googleblog.com/en/genai-processors/)
