@@ -1,5 +1,6 @@
 
 ## System Design
+- **Site** : [algomaster.io/](https://algomaster.io/)
 - **Video**: [System Design was HARD until I Learned these 30 Concepts @Ashish Partap Singh](https://www.youtube.com/watch?v=s9Qh9fWeOAk)
 
 ## GenAI
