@@ -1,4 +1,8 @@
 
+
+## Mathematics
+- **YouTube Playlist** : [MIT 6.1200J Mathematics for Computer Science, Spring 2024](https://www.youtube.com/playlist?list=PLUl4u3cNGP61VNvICqk2HXJTonnKgAc9d)
+
 ## System Design
 - **Site** : [algomaster.io/](https://algomaster.io/)
 - **Video**: [System Design was HARD until I Learned these 30 Concepts @Ashish Partap Singh](https://www.youtube.com/watch?v=s9Qh9fWeOAk)
