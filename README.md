@@ -40,6 +40,7 @@
 
 ## Machine Learning
 - **Course + Repo**: [ML For Beginners](https://github.com/microsoft/ML-For-Beginners)
+- **Books**: [ml-road](https://github.com/yanshengjia/ml-road)
 
 
 ## Agentic AI
