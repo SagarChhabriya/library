@@ -27,6 +27,7 @@
 
 ## APIs
 - **CheatSheet**: [FastAPI CheatSheet @app-generator.dev/docs](https://app-generator.dev/docs/technologies/fastapi/cheatsheet.html)
+- **RapidAPI**: [Rapid API](https://rapidapi.com/)
 
 
 
@@ -37,6 +38,7 @@
 - **Blog**: [An Introduction to BERT And How To Use It](https://wandb.ai/mukilan/BERT_Sentiment_Analysis/reports/An-Introduction-to-BERT-And-How-To-Use-It--VmlldzoyNTIyOTA1)
 - **CaseStudy**: [NLP Case Study: Word Embeddings](https://web.engr.oregonstate.edu/~huanlian/teaching/ML/2024fall/unit4/word_embeddings.html#exploration-4.2-nlp-case-study-word-embeddings)
 - **OpenCourseWare**: [AI 534 (400/401), Machine Learning (e-campus), Fall 2024](https://web.engr.oregonstate.edu/~huanlian/teaching/ML/2024fall/)
+- **d2l CH: 15**: [d2l Chapter 15: NLP](https://d2l.ai/chapter_natural-language-processing-pretraining/index.html)
 
 
 ## Machine Learning
