@@ -1,3 +1,7 @@
+
+## Linkedin Posts
+- AI Content: [Who actually ships ai knowledge](https://www.linkedin.com/posts/paoloperrone_tired-of-ai-newsletters-that-just-regurgitate-activity-7363677727205281792-vK9M?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQCkOUBNA-E4AXpsYEvBxIlzGaGNCumDt4)
+
 ## RAG
 - **Repo**: [RAG-Anything: All-in-One RAG System](https://github.com/HKUDS/RAG-Anything)
 
@@ -55,4 +59,6 @@
 - **Blog**: [Difference between CPU, GPU, TPU and NPU | Abhishek Jain @medium](https://medium.com/@abhishekjainindore24/difference-between-cpu-gpu-tpu-and-npu-09fca09f0bb6)
 
 <img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/90c0ab0f-d410-4ef5-ada3-8ce21e2ae056" />
+
+
 
