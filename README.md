@@ -26,6 +26,7 @@
 -  **Books**: [AI in Visuals Books @Kdimensions](https://kdimensions.com/)
 - **blog**: [What is RNN? @Amazon](https://aws.amazon.com/what-is/recurrent-neural-network/)
 - **LinkedIn**: [𝐀𝐥𝐢𝐜𝐞’𝐬 𝐀𝐝𝐯𝐞𝐧𝐭𝐮𝐫𝐞𝐬 𝐢𝐧 𝐚 𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭𝐢𝐚𝐛𝐥𝐞 𝐖𝐨𝐧𝐝𝐞𝐫𝐥𝐚𝐧𝐝 𝐓𝐡𝐞 𝐂𝐮𝐭𝐞𝐬𝐭 𝐁𝐨𝐨𝐤 𝐞𝐯𝐞𝐫 𝐰𝐫𝐢𝐭𝐭𝐞𝐧 𝐨𝐧 𝐍𝐞𝐮𝐫𝐚𝐥 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬](https://www.linkedin.com/posts/iamarifalam_deep-learning-adventures-book-ugcPost-7347247607959719936-v51E?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQCkOUBNA-E4AXpsYEvBxIlzGaGNCumDt4)
+- [MIT Introduction to Deep Learning (6.S191) ](https://docs.google.com/document/d/1lHCUT_zDLD71Myy_ulfg7jaciCj1A7A3FY_-TFBO5l8/edit?tab=t.0#heading=h.8lqw41g5s6rx)
 
 
 
