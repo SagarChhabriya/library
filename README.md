@@ -1,3 +1,6 @@
+## Guides
+- [10 things you didn’t know you could do with GitHub Codespaces](https://github.blog/developer-skills/github/10-things-you-didnt-know-you-could-do-with-github-codespaces/)
+
 
 ## Linkedin Posts
 - AI Content: [Who actually ships ai knowledge](https://www.linkedin.com/posts/paoloperrone_tired-of-ai-newsletters-that-just-regurgitate-activity-7363677727205281792-vK9M?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQCkOUBNA-E4AXpsYEvBxIlzGaGNCumDt4)
