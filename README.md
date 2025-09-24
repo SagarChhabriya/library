@@ -1,3 +1,6 @@
+## Case Studies
+  - [A Spotify Song and Playlist Recommendation Engine](https://www.mongodb.com/developer/code-examples/python/song-recommendations-example-app/)
+
 ## Guides
 - [10 things you didn’t know you could do with GitHub Codespaces](https://github.blog/developer-skills/github/10-things-you-didnt-know-you-could-do-with-github-codespaces/)
 
