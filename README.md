@@ -1,3 +1,6 @@
+
+
+
 ## Case Studies
   - [A Spotify Song and Playlist Recommendation Engine](https://www.mongodb.com/developer/code-examples/python/song-recommendations-example-app/)
 
@@ -63,8 +66,9 @@
 
 
 
-## ICT 
+## Tech Blogs 
 - **Blog**: [Difference between CPU, GPU, TPU and NPU | Abhishek Jain @medium](https://medium.com/@abhishekjainindore24/difference-between-cpu-gpu-tpu-and-npu-09fca09f0bb6)
+- **Blog**: [Serverless Computing](https://www.cloudflare.com/learning/serverless/what-is-serverless/)
 
 <img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/90c0ab0f-d410-4ef5-ada3-8ce21e2ae056" />
 
