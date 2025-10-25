@@ -29,6 +29,10 @@
 
   * [MCP Course @HuggingFace](https://huggingface.co/learn/mcp-course/unit0/introduction)
 
+* Prompt Engineering
+  * cookbook.openai.com
+  * https://github.com/dair-ai/Prompt-Engineering-Guide 
+
 ---
 
 ### 2. **System Design & Tech Tips**
