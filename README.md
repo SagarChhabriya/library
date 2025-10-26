@@ -31,7 +31,12 @@
 
 * Prompt Engineering
   * cookbook.openai.com
-  * https://github.com/dair-ai/Prompt-Engineering-Guide 
+  * https://github.com/dair-ai/Prompt-Engineering-Guide
+
+* **MLOps**
+  * https://mlops.community/
+  * https://cloud.google.com/architecture
+  * https://madewithml.com/   
 
 ---
 
