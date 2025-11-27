@@ -3,6 +3,11 @@
 
 ## Agentic AI Frameworks
 
+<img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/cbb4321d-6bd0-4e58-9ddb-bc294ff3c1c2" />
+
+<img width="800" height="869" alt="image" src="https://github.com/user-attachments/assets/ee0a83ab-257c-4ccd-9a44-cd50d7d5809f" />
+
+
 <img width="800" height="1111" alt="image" src="https://github.com/user-attachments/assets/f51eadff-3dac-4394-b945-bec63ce807d6" />
 
 
