@@ -46,6 +46,7 @@
 
   * [algomaster.io](https://algomaster.io/)
   * [System Design Concepts Video](https://www.youtube.com/watch?v=s9Qh9fWeOAk)
+  * [umer-farooq.com/system-design-for-beginners-part-i](https://blog.umer-farooq.com/system-design-for-beginners-part-i-getting-started-238d67c76a22)
 
 * **Tech Tips:**
 
