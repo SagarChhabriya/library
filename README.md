@@ -92,6 +92,8 @@
 
   * [Who Actually Ships AI Knowledge?](https://www.linkedin.com/posts/paoloperrone_tired-of-ai-newsletters-that-just-regurgitate-activity-7363677727205281792-vK9M?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQCkOUBNA-E4AXpsYEvBxIlzGaGNCumDt4)
 
+
+
 ---
 
 ### 5. **APIs**
@@ -99,3 +101,17 @@
 * [FastAPI CheatSheet](https://app-generator.dev/docs/technologies/fastapi/cheatsheet.html)
 * [RapidAPI](https://rapidapi.com/)
 
+---
+
+### 6. Great Python packages 
+
+1. **CleanLab** – Automatically detects label and data issues in ML datasets https://github.com/cleanlab/cleanlab | https://cleanlab.ai/ 
+2. **LazyPredict** – Train, test, and compare multiple ML models in just a few lines of code https://github.com/shankarpandala/lazypredict
+3. **Lux** – Fast, intelligent data visualization and exploratory analysis for pandas DataFrames https://github.com/lux-org/lux 
+4. **PyForest** – Auto-imports common data science libraries with a single line of code https://github.com/8080labs/pyforest/
+5. **PivotTableJS** – Interactive, no-code pivot table analysis directly in Jupyter Notebooks https://github.com/nicolaskruchten/jupyter_pivottablejs| https://pivottable.js.org/examples/ 
+6. **Drawdata** – Draw custom 2D datasets in Jupyter to better understand ML algorithms https://github.com/koaning/drawdata | https://calmcode.io/labs/drawdata
+7. **Black** – The uncompromising Python code formatter used by teams everywhere https://black.vercel.app/ | https://black.readthedocs.io/en/stable/
+8. **PyCaret** – Low-code, end-to-end machine learning automation library in Python https://github.com/pycaret/pycaret 
+9. **PyTorch Lightning** – Simplifies PyTorch training by removing boilerplate and scaling effortlessly https://github.com/Lightning-AI/pytorch-lightning
+10. **Reflex** – Build and deploy full-stack, high-performance web apps using pure Python https://github.com/reflex-dev/reflex
