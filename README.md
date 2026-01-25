@@ -129,3 +129,4 @@
 - https://academictorrents.com/
 - https://registry.opendata.aws/
 - https://docs.cloud.google.com/bigquery/public-data
+- https://gjjvdburg.github.io/UCI_Datasets_Filter/
