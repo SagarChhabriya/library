@@ -115,3 +115,17 @@
 8. **PyCaret** – Low-code, end-to-end machine learning automation library in Python https://github.com/pycaret/pycaret 
 9. **PyTorch Lightning** – Simplifies PyTorch training by removing boilerplate and scaling effortlessly https://github.com/Lightning-AI/pytorch-lightning
 10. **Reflex** – Build and deploy full-stack, high-performance web apps using pure Python https://github.com/reflex-dev/reflex
+11. 
+
+
+### 7. Dataset
+
+- https://github.com/awesomedata/awesome-public-datasets
+- https://www.apo-tokyo.org/
+- https://datasetsearch.research.google.com/
+- https://datahub.io/
+- https://www.openml.org/
+- https://archive.ics.uci.edu/datasets.html
+- https://academictorrents.com/
+- https://registry.opendata.aws/
+- https://docs.cloud.google.com/bigquery/public-data
