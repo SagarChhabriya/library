@@ -38,6 +38,8 @@
   * https://cloud.google.com/architecture
   * https://madewithml.com/   
 
+* General Blogs
+  * https://internshipp.com/blog 
 ---
 
 ### 2. **System Design & Tech Tips**
