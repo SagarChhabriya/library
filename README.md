@@ -1,4 +1,7 @@
 
+- https://situational-awareness.ai/
+
+
 ### 1. **AI & Machine Learning**
 
 * **Deep Learning:**
