@@ -135,3 +135,9 @@
 - https://registry.opendata.aws/
 - https://docs.cloud.google.com/bigquery/public-data
 - https://gjjvdburg.github.io/UCI_Datasets_Filter/
+
+
+
+
+
+<img width="800" height="999" alt="image" src="https://github.com/user-attachments/assets/c87ecef8-ef47-47be-bee4-d3167612f0a1" />
