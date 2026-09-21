@@ -1,6 +1,11 @@
 - http://experientiallabs.ai/
 - https://situational-awareness.ai/
 
+- Awesome Finance
+ - https://www.youtube.com/@Tony-Bell
+ - https://www.youtube.com/@ModernMBA
+ - https://www.youtube.com/@DefiantGatekeeper
+
 
 ### 1. **AI & Machine Learning**
 
